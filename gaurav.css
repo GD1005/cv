@@ -1,0 +1,48 @@
+.landing{
+    position: absolute;
+width: 1352px;
+height: 903px;
+left: 82px;
+top: -24px;
+
+background: url(morning-foggy-tea-plantation-kolukkumalai-in-munna-2022-08-01-03-10-22-utc.jpg);
+border-radius: 20px;
+}
+.yellow{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 86px;
+gap: 8px;
+
+position: absolute;
+width: 289px;
+height: 55px;
+left: 1066px;
+top: 751px;
+
+background: #FFE700;
+border-radius: 8px;
+}
+h3{
+    width: 117px;
+    height: 25px;
+    
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
